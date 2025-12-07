@@ -1,0 +1,19 @@
+# Core Web Framework
+Flask
+flask-cors
+werkzeug
+
+# API Key and Environment Management
+python-dotenv
+PyJWT
+
+# Database Connectivity (MySQL)
+mysql-connector-python
+
+# AI/LLM Integration
+google-generativeai
+
+# Resume Parsing (NLP and File Handling)
+spacy
+python-docx
+PyMuPDF # Imports as 'fitz' in resume_parser.py
