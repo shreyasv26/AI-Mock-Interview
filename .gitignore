@@ -1,7 +1,12 @@
-backend/venv/
+# Python
 venv/
-frontend/node_modules/
-frontend/.git/
-*.pyc
 __pycache__/
+*.pyc
 .env
+
+# React
+node_modules/
+build/
+
+# Misc
+.DS_Store
